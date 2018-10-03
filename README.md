@@ -1,2 +1,0 @@
-# IIVComponent
-Created with CodeSandbox
